@@ -2,7 +2,7 @@
   <br>
   <img src="img/01_logo/LOGO_D-ROOM.jpg" alt="D-ROOM_LOGO" width="200">
   <br>
-  Raspberry Pi implementation course without teaching master
+  教えないラズパイ講座
   <br>
 </h1>
 
