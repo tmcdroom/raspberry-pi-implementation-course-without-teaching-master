@@ -31,6 +31,7 @@
 2. Neural Network Console とPythonを使ってDeep Learning
     1. Neural Network Console (NNC)で分類する
     2. PythonでNNCと同じモデルを作成する
+  ※Neural_Network_Console.pdfは使用しているNNCのバージョンがやや古いため、最新版と一部内容が異なる場合があります（2023.5.24現在、資料アップデート中）
 3. Raspberry Pi で推論機を作成
     1. 作成したモデルをS1で使用したラズパイに組込
     2. ラズパイで新たに撮像と同時に正しく判定できるか確認
