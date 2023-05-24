@@ -23,6 +23,7 @@
 そこで、簡単なタスクを通して机上検討～実装までのフローを経験していただくことを目的とします。
 
 ## 内容
+[Youtubeへのリンク](https://www.youtube.com/watch?v=aAt7gdTNZAw&list=PL2tjO9W9fekGOCMydcEHER2anxlbObfeS)
 1. Raspberry Pi +USBカメラで撮像キット作成
     1. Raspberry Pi セットアップ
     2. USBカメラで撮像できるプログラムを作成
